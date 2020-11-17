@@ -4,6 +4,7 @@ const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
 
 var engine, world;
+//creating variables
 var box1, pig1;
 var backgroundImg,platform;
 
